@@ -65,10 +65,10 @@ your_project_name/
 ├── src/  
 │   └── index.php  
 │  
-├── vendor/
-|   └── composer
+├── vendor/  
+|   └── composer  
 │   └── autoload.php  
-|
+|  
 ├── .env  
 ├── .env.example  
 ├── .gitignore  
