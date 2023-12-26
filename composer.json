@@ -1,0 +1,15 @@
+{
+    "name": "xentixar/xen-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xentixar\\XenPhp\\": "config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xentixar",
+            "email": "xentixar@gmail.com"
+        }
+    ]
+}
